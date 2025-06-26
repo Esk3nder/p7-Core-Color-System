@@ -4,19 +4,6 @@
 
 **Serial Experiments Lain – Core Color System**
 
-| Layer                    | Swatch                                                          | Hex       | Why it matters                                                                                            |
-| ------------------------ | --------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------- |
-| **Ambient / Real-world** | ![#FEF3D7](https://via.placeholder.com/15/FEF3D7/000000?text=+) | `#FEF3D7` | Bleached daylight—Lain’s bedroom walls and washed-out suburban exteriors. ([colourlovers.com][1])         |
-|                          | ![#4A4F63](https://via.placeholder.com/15/4A4F63/000000?text=+) | `#4A4F63` | Concrete-grey hallways, CRT casings, overcast skies. (derived from still composition)                     |
-|                          | ![#55624D](https://via.placeholder.com/15/55624D/000000?text=+) | `#55624D` | Desaturated moss/olive tint used in drains, chain-link, industrial backdrops.                             |
-| **Character Accent**     | ![#8941AD](https://via.placeholder.com/15/8941AD/000000?text=+) | `#8941AD` | Lain’s hair-shadow and key art backgrounds—sets the show’s signature purple mood. ([colourlovers.com][1]) |
-|                          | ![#CC5446](https://via.placeholder.com/15/CC5446/000000?text=+) | `#CC5446` | Warm rust/burgundy—power-line stains, blood hints, Lain’s bear-hoodie shadowing. ([colourlovers.com][1])  |
-|                          | ![#0C0002](https://via.placeholder.com/15/0C0002/FFFFFF?text=+) | `#0C0002` | “Void black” outlines that keep the low-contrast scenes readable. ([colourlovers.com][1])                 |
-| **Wired / UI Glitch**    | ![#02C2CC](https://via.placeholder.com/15/02C2CC/000000?text=+) | `#02C2CC` | Neon-cyan scan-lines, network overlays, and terminal prompts. ([color-hex.com][2])                        |
-|                          | ![#F313DE](https://via.placeholder.com/15/F313DE/000000?text=+) | `#F313DE` | Magenta glitch pulses & logo flares—sparingly used to jolt the eye. ([color-hex.com][2])                  |
-| **Soft Light**           | ![#EBE6E3](https://via.placeholder.com/15/EBE6E3/000000?text=+) | `#EBE6E3` | Pale pink-grey bloom on interior lighting and flashbacks. ([colourlovers.com][1])                         |
-
-
 | Layer                      | Swatch | Hex | Why it matters |
 |----------------------------|--------|-----|----------------|
 | Ambient / Daylight         | <img valign="middle" alt="#FEF3D7" src="https://readme-swatches.vercel.app/FEF3D7?size=20" /> | `#FEF3D7` | Bleached daylight — Lain’s bedroom walls, suburban exteriors |
