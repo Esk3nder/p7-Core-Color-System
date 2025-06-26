@@ -17,17 +17,17 @@
 | **Soft Light**           | ![#EBE6E3](https://via.placeholder.com/15/EBE6E3/000000?text=+) | `#EBE6E3` | Pale pink-grey bloom on interior lighting and flashbacks. ([colourlovers.com][1])                         |
 
 
-| Layer                      | Swatch                                                                                 | Hex        | Why it matters                                                 |
-|----------------------------|----------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------|
-| Ambient / Daylight        | ![#FEF3D7](https://via.placeholder.com/15/FEF3D7/000000.png?text=%20)                  | `#FEF3D7` | Bleached daylight — Lain’s bedroom walls, suburban exteriors  |
-| Ambient / Concrete        | ![#4A4F63](https://via.placeholder.com/15/4A4F63/000000.png?text=%20)                  | `#4A4F63` | Concrete-grey hallways, CRT casings                           |
-| Ambient / Moss            | ![#55624D](https://via.placeholder.com/15/55624D/000000.png?text=%20)                  | `#55624D` | Desaturated olive-green pipes, chain-link fences              |
-| Character Accent / Purple | ![#8941AD](https://via.placeholder.com/15/8941AD/000000.png?text=%20)                  | `#8941AD` | Signature purple mood around Lain                             |
-| Character Accent / Rust   | ![#CC5446](https://via.placeholder.com/15/CC5446/000000.png?text=%20)                  | `#CC5446` | Warm rust & blood hints                                       |
-| Character Accent / Void   | ![#0C0002](https://via.placeholder.com/15/0C0002/FFFFFF.png?text=%20)                  | `#0C0002` | Near-black outlines anchoring low-contrast scenes             |
-| Wired / Glitch Cyan       | ![#02C2CC](https://via.placeholder.com/15/02C2CC/000000.png?text=%20)                  | `#02C2CC` | Neon cyan network overlays                                    |
-| Wired / Glitch Magenta    | ![#F313DE](https://via.placeholder.com/15/F313DE/000000.png?text=%20)                  | `#F313DE` | Magenta glitch pulses & logo flares                           |
-| Soft Light                | ![#EBE6E3](https://via.placeholder.com/15/EBE6E3/000000.png?text=%20)                  | `#EBE6E3` | Pale pink-grey interior bloom                                 |
+| Layer                      | Swatch | Hex | Why it matters |
+|----------------------------|--------|-----|----------------|
+| Ambient / Daylight         | <img valign="middle" alt="#FEF3D7" src="https://readme-swatches.vercel.app/FEF3D7?size=20" /> | `#FEF3D7` | Bleached daylight — Lain’s bedroom walls, suburban exteriors |
+| Ambient / Concrete         | <img valign="middle" alt="#4A4F63" src="https://readme-swatches.vercel.app/4A4F63?size=20" /> | `#4A4F63` | Concrete-grey hallways, CRT casings |
+| Ambient / Moss             | <img valign="middle" alt="#55624D" src="https://readme-swatches.vercel.app/55624D?size=20" /> | `#55624D` | Desaturated olive-green pipes, chain-link fences |
+| Character Accent / Purple  | <img valign="middle" alt="#8941AD" src="https://readme-swatches.vercel.app/8941AD?size=20" /> | `#8941AD` | Signature purple aura around Lain |
+| Character Accent / Rust    | <img valign="middle" alt="#CC5446" src="https://readme-swatches.vercel.app/CC5446?size=20" /> | `#CC5446` | Warm rust & blood hints |
+| Character Accent / Void    | <img valign="middle" alt="#0C0002" src="https://readme-swatches.vercel.app/0C0002?size=20" /> | `#0C0002` | Near-black outlines anchoring low-contrast scenes |
+| Wired / Glitch Cyan        | <img valign="middle" alt="#02C2CC" src="https://readme-swatches.vercel.app/02C2CC?size=20" /> | `#02C2CC` | Neon-cyan network overlays |
+| Wired / Glitch Magenta     | <img valign="middle" alt="#F313DE" src="https://readme-swatches.vercel.app/F313DE?size=20" /> | `#F313DE` | Magenta glitch pulses & logo flares |
+| Soft Light                 | <img valign="middle" alt="#EBE6E3" src="https://readme-swatches.vercel.app/EBE6E3?size=20" /> | `#EBE6E3` | Pale pink-grey interior bloom |
 
 
 **Design Principles (first-principles view)**
