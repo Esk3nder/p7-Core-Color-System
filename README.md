@@ -30,8 +30,6 @@
 * **Print/Merch**: Matte stock with the Ambient layer + spot-neon ink for Wired accents mimics the show’s sudden luminance spikes.
 * **Accessibility**: Contrast between `#0C0002` text and any Ambient swatch passes WCAG AA; Wired colors on dark grounds exceed AAA.
 
-That’s the distilled color DNA—anything more is noise.
-
 [1]: https://www.colourlovers.com/palette/4574359/lain?utm_source=chatgpt.com "Palette / lain - COLOURlovers"
 [2]: https://www.color-hex.com/color-palette/1022265?utm_source=chatgpt.com "serial experiments liz Color Palette"
 [3]: https://www.artvy.ai/ai-art-style/serial-experiments-lain?utm_source=chatgpt.com "Serial Experiments Lain AI Art Style - Cyberpunk Aesthetics"
